@@ -1,2 +1,2 @@
 # DailyRecord
-a repository for record
+this a repository for record
